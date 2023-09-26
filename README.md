@@ -5,8 +5,8 @@
   </a>
 </h1>
 <h5 align="center">
-  <code><a href="[https://www.linkedin.com/in/kristiene-recto/](https://www.linkedin.com/in/kristiene-recto/)/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="[https://www.twitter.com/rKristiene](https://twitter.com/rKristiene)" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
+  <code><a href="https://www.linkedin.com/in/kristiene-recto" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.twitter.com/rKristiene" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
 </h5>
 <br>
 <p align="center">
@@ -37,11 +37,8 @@
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
 </p>
-<hr>
-<h2 align="center">:zap: Stats :zap:</h2>
 <br>
   <br>
 <hr>
-<h2 align="center">:male-technologist: Repositories :male-technologist:</h2>
 <br>
 </h4>
