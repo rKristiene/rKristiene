@@ -5,7 +5,7 @@
   </a>
 </h1>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/kristiene-recto" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/kristiene-recto" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.twitter.com/rKristiene" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
 </h5>
 <br>
@@ -26,16 +26,16 @@
 <h2 align="center">:fire: Languages & Tools & Abilities :fire:</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="R" height="25" src="images/R.png"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Python" height="25" src="python-original.svg"></code>
+  <code><img title="R" height="25" src="R.png"></code>
+  <code><img title="Problem Solving" height="25" src="problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="html5.svg"></code>
+  <code><img title="CSS" height="25" src="css.svg"></code>
+  <code><img title="AngularJS" height="25" src="angularjs.png"></code>
+  <code><img title="Git" height="25" src="git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="visualstudio.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="GitHub" height="25" src="github.svg"></code>
 </p>
 <br>
   <br>
