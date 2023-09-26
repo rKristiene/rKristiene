@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kristiene+Recto....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Kristiene+Recto....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <h5 align="center">
@@ -20,7 +20,7 @@
   :computer: I'm a computational biologist in Dr. Pleuni Pennings' Code Lab, exploring Machine Learning's potential to predict antibiotic resistance and comparing its performance to established databases like ResFinder and CARD.
   <br>
 <!--   :books: I’m currently learning how to build E-Commerce Website with Django -->
-  :mailbox: How to reach me: <a href="mailto: "></a>
+<!--   :mailbox: How to reach me: <a href="mailto: krecto@mail.sfsu.edu"></a> -->
 </p>
 <hr>
 <h2 align="center">:fire: Languages & Tools & Abilities :fire:</h2>
