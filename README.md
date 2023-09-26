@@ -27,7 +27,7 @@
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="python-original.svg"></code>
-  <code><img title="R" height="25" src="R.png"></code>
+  <code><img title="R" height="25" src="R.jpeg"></code>
   <code><img title="Problem Solving" height="25" src="problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="html5.svg"></code>
   <code><img title="CSS" height="25" src="css.svg"></code>
